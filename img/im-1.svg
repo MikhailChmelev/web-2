@@ -1,0 +1,14 @@
+<svg width="31" height="30" viewBox="0 0 31 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M19.0669 1.64662C33.7906 7.48325 35.996 18.2117 16.839 28.8608C8.43246 33.534 0 22.8369 0 14.7934C0 6.74994 4.34308 -4.19002 19.0669 1.64662Z" fill="url(#paint0_linear_1_941)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M10.6457 3.31934H16.6456C19.5087 3.31934 21.8512 5.66188 21.8512 8.52497V10.6662C20.7515 10.8867 19.9229 11.8579 19.9229 13.0226V15.3252V15.3996V17.8912H7.3681V15.3996V15.3252V13.0226C7.3681 11.8579 6.53958 10.8867 5.43982 10.6662V8.52497C5.43982 5.66188 7.78237 3.31934 10.6455 3.31934H10.6457Z" stroke="white" stroke-miterlimit="22.9256" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M4.96509 10.6191C6.29244 10.6191 7.3684 11.6951 7.3684 13.0227V15.3253V15.3997V17.8913H9.66856H13.1192H17.6231H19.9232V15.3997V15.3253V13.0227C19.9232 11.6953 20.9992 10.6191 22.3265 10.6191C23.6539 10.6191 24.73 11.7554 24.73 13.0227C24.73 14.2897 23.8406 15.2282 22.6815 15.3997H22.6836V21.0634C22.6836 21.4929 22.3322 21.8443 21.9027 21.8443H21.4381H17.6229H13.119H9.66835H5.85312H5.38854C4.95904 21.8443 4.60762 21.4929 4.60762 21.0634V15.3997H4.60971C3.45065 15.228 2.56116 14.2293 2.56116 13.0227C2.56116 11.6953 3.63732 10.6191 4.96467 10.6191H4.96509Z" stroke="white" stroke-miterlimit="22.9256" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M8.14933 14.5444H19.1423C19.5718 14.5444 19.9232 14.8958 19.9232 15.3251V17.8913H7.36841V15.3251C7.36841 14.8956 7.71982 14.5444 8.14912 14.5444H8.14933Z" stroke="white" stroke-miterlimit="22.9256" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M5.75684 21.8442H7.76092L7.01027 24.6127H5.75684V21.8442Z" stroke="white" stroke-miterlimit="22.9256" stroke-linecap="round" stroke-linejoin="round"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M21.5349 21.8442H19.531L20.2817 24.6127H21.5349V21.8442Z" stroke="white" stroke-miterlimit="22.9256" stroke-linecap="round" stroke-linejoin="round"/>
+<defs>
+<linearGradient id="paint0_linear_1_941" x1="0.0878228" y1="18.7514" x2="30.6582" y2="18.7514" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F880B9"/>
+<stop offset="1" stop-color="#FF98A6"/>
+</linearGradient>
+</defs>
+</svg>
